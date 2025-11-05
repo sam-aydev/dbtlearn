@@ -1,0 +1,20 @@
+dbt_learn:
+    target: 
+    outputs:
+        dev:
+            catalog: 
+            host:
+            http_path: 
+            schema: 
+            threads: 
+            token: 
+            type: 
+        prod:
+            catalog: dbtlearnprod
+            host:
+            http_path:
+            schema: 
+            threads: 
+            token: 
+            type: 
+        
